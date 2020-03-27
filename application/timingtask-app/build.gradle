@@ -1,0 +1,27 @@
+ext.moduleName = 'data.timingtask-app'
+buildscript {
+    repositories {
+        mavenCentral()
+    }
+
+}
+
+apply plugin: 'application'
+mainClassName = 'data.timingtask.TimingTaskRunner'
+//mainClassName = 'data.timingtask.TimerTaskRunner'
+
+dependencies {
+    implementation(
+            project(":controller"),
+            project(":conf"),
+            project(":usecase"),
+            project(":infrastructure"),
+            project(":domain")
+    )
+}
+jar {
+    manifest.attributes 'Main-Class': 'data.timingtask.TimingTaskRunner'
+    //from configuration.compile.collect { zipTree it}
+}
+
+

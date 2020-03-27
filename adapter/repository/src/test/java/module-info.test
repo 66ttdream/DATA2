@@ -1,0 +1,9 @@
+module Data.repository.test {
+    requires Data.repository;
+    requires org.junit.jupiter.api;
+    requires Data.domain;
+    requires data.vo.id;
+    requires data.entity
+    requires data.repository.synparameter;
+
+}

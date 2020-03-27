@@ -1,0 +1,38 @@
+apply plugin: 'java-library'
+
+ext.moduleName = 'data.repository'
+
+dependencies {
+
+    implementation(
+                project(':domain'),
+                project(':usecase'),
+                project(':infrastructure'),
+            group: 'com.github.davidmoten', name: 'rxjava2-jdbc', version: '0.2.4',
+            //'mysql:mysql-connector-java:8.0.17'
+
+     )
+    implementation(
+            //group: 'oracle', name: 'ojdbc', version: '1.4'
+            group: 'org.slf4j', name: 'slf4j-api', version: '1.7.21'
+    )
+    implementation(
+            group: 'mysql', name: 'mysql-connector-java', version: '6.0.6'
+    )
+    implementation group: 'log4j', name: 'log4j', version: '1.2.17'
+
+    /*implementation(
+            group: 'com.zaxxer', name: 'HikariCP-java6', version: '2.3.13'
+    )*/
+
+
+        annotationProcessor 'org.projectlombok:lombok:1.18.8'
+        compileOnly 'org.projectlombok:lombok:1.18.8'
+        testAnnotationProcessor 'org.projectlombok:lombok:1.18.8'
+        testCompileOnly 'org.projectlombok:lombok:1.18.8'
+
+}
+configurations.all {
+    exclude group: 'com.google.code.findbugs', module: 'jsr305'
+    exclude group: 'net.jcip', module: 'jcip-annotations'
+}

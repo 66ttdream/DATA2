@@ -1,0 +1,30 @@
+apply plugin: 'java-library'
+
+ext.moduleName = 'data.conf'
+
+dependencies {
+    implementation(
+            project(':usecase'),
+            project(':domain'),
+            project(':controller'),
+            project(':gateways'),
+            project(':repository')
+
+    )
+    implementation(
+            'com.github.davidmoten:rxjava2-jdbc:0.2.5',
+            'mysql:mysql-connector-java:8.0.17'
+
+    )
+    annotationProcessor 'org.projectlombok:lombok:1.18.8'
+    compileOnly 'org.projectlombok:lombok:1.18.8'
+    testAnnotationProcessor 'org.projectlombok:lombok:1.18.8'
+    testCompileOnly 'org.projectlombok:lombok:1.18.8'
+
+}
+configurations.all {
+    exclude group: 'commons-logging', module: 'commons-logging'
+    exclude group: 'xpp3', module: 'xpp3_min'
+    exclude group: 'com.google.code.findbugs', module: 'jsr305'
+    exclude group: 'net.jcip', module: 'jcip-annotations'
+}

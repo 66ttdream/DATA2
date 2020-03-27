@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MainTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-01-08T09:49:06" hostname="7JK9OQ7LAHCDEMY" time="0.112">
+  <properties/>
+  <testcase name="testTask()" classname="MainTest" time="0.112"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,13 @@
+apply plugin: 'java-library'
+
+ext.moduleName = 'data.usecase'
+dependencies {
+    implementation(
+            project(':domain')
+    )
+        annotationProcessor 'org.projectlombok:lombok:1.18.8'
+        compileOnly 'org.projectlombok:lombok:1.18.8'
+        testAnnotationProcessor 'org.projectlombok:lombok:1.18.8'
+        testCompileOnly 'org.projectlombok:lombok:1.18.8'
+
+}

@@ -1,0 +1,15 @@
+apply plugin: 'java-library'
+
+ext.moduleName = 'data.controller'
+
+dependencies {
+    implementation(
+            project(':domain'),
+            project(':usecase')
+
+    )
+    annotationProcessor 'org.projectlombok:lombok:1.18.8'
+    compileOnly 'org.projectlombok:lombok:1.18.8'
+    testAnnotationProcessor 'org.projectlombok:lombok:1.18.8'
+    testCompileOnly 'org.projectlombok:lombok:1.18.8'
+}

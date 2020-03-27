@@ -1,0 +1,4 @@
+module user.infrastructure.test {
+    requires user.infrastructure;
+    requires org.junit.jupiter.api;
+}

@@ -1,0 +1,931 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Data:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cefb3217-4121-4e75-ae61-248fdba2f6f0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="testmysql [2]" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="testmysql [2]" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="testmysql [2]" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="data: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="testmysql [2]" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="data: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="GW_WX_USERSUMMARY: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="hideWarnings" value="true" />
+    <option name="HIDE_WARNINGS" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/adapter/gateways">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/application/timingtask-app">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Data" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Data" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Data" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="application" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Data" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Data" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="module-info" />
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../maven/apache-maven-3.6.3" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SVLEivkxWZw7vanWSMW0A06a6v" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="module&#10;directory" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/data/req" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.34264705" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\ideaprojectdata\application\timingtask-app" />
+      <recent name="E:\ideaprojectdata\application\TimingTasK-app" />
+      <recent name="E:\ideaprojectdata\adapter\repository\src\main\java\data\repository\port" />
+      <recent name="E:\ideaprojectdata\domain\src\main\java\data\entity" />
+      <recent name="E:\ideaprojectdata\adapter\gateways\src\test\java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="data.spring.config" />
+      <recent name="data.spring.conf" />
+      <recent name="data" />
+      <recent name="data.repository.model" />
+      <recent name="data.gateways.datagateways" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\ideaprojectdata\adapter\gateways\src\main\resources" />
+    </key>
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="https://blog.csdn.net" />
+          <option name="urlPath" value="/linjpg/article/details/76927075" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="appid" />
+                <option name="value" value="3123" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="syn/start" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="appid" />
+                <option name="value" value="3123" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/syn/start" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="appid" />
+                <option name="value" value="3123" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/syn/start" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="appid" />
+                <option name="value" value="3123" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Gradle.ideaprojectdata [bootJar]">
+    <configuration name="DBFindConf.test1" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;DBFindConf.test1&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":repository:cleanTest" />
+            <option value=":repository:test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="DataAnalyzeTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;DataAnalyzeTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":repository:cleanTest" />
+            <option value=":repository:test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="DataAnalyzeTest.test1" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;DataAnalyzeTest.test1&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":repository:cleanTest" />
+            <option value=":repository:test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="ideaprojectdata [bootJar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="bootJar" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="ideaprojectdata [bootRun]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="bootRun" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="RunApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Data.spring-app.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="data.spring.RunApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="COMMON_VM_ARGUMENTS" value="-Dfile.encoding=UTF-8" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_Data" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="61337" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Remote" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="LOCAL" value="false" />
+      <deployment />
+      <server-settings>
+        <data>
+          <option name="targets">
+            <list>
+              <WatchedTargetModelImpl>
+                <option name="name" value="CONTEXT_XML" />
+                <name>CONTEXT_XML</name>
+              </WatchedTargetModelImpl>
+              <StagingTargetModelImpl>
+                <option name="name" value="STAGING" />
+                <name>STAGING</name>
+              </StagingTargetModelImpl>
+            </list>
+          </option>
+          <option name="transportHostId" />
+        </data>
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="TOMCAT_LOCALHOST_LOG_ID" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="61347" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Gradle.ideaprojectdata [bootRun]" />
+      <item itemvalue="Gradle.DBFindConf.test1" />
+      <item itemvalue="Gradle.DataAnalyzeTest.test1" />
+      <item itemvalue="Gradle.DataAnalyzeTest" />
+      <item itemvalue="Gradle.ideaprojectdata [bootJar]" />
+      <item itemvalue="Spring Boot.RunApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.ideaprojectdata [bootJar]" />
+        <item itemvalue="Gradle.DataAnalyzeTest.test1" />
+        <item itemvalue="Gradle.DataAnalyzeTest" />
+        <item itemvalue="Gradle.DBFindConf.test1" />
+        <item itemvalue="Gradle.ideaprojectdata [bootRun]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <option name="contentProportion" value="0.30533808" />
+        <treeState>
+          <expand />
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
+  </component>
+  <component name="SpringBeansView">
+    <option name="beanDetailsProportion" value="0.3" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7b986a8e-9a6f-45f5-9f45-04083f3d9d60" name="Default Changelist" comment="" />
+      <created>1571643706629</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571643706629</updated>
+      <workItem from="1571643731499" duration="6337000" />
+      <workItem from="1571650912427" duration="1752000" />
+      <workItem from="1571706970926" duration="9913000" />
+      <workItem from="1571792382490" duration="2562000" />
+      <workItem from="1571881171781" duration="1272000" />
+      <workItem from="1571965564500" duration="1219000" />
+      <workItem from="1572407747533" duration="1840000" />
+      <workItem from="1572487795983" duration="2452000" />
+      <workItem from="1572571613733" duration="1965000" />
+      <workItem from="1572921836403" duration="1883000" />
+      <workItem from="1573010551713" duration="1735000" />
+      <workItem from="1573089530959" duration="1755000" />
+      <workItem from="1573783060653" duration="87000" />
+      <workItem from="1574151586343" duration="268000" />
+      <workItem from="1574151933314" duration="443000" />
+      <workItem from="1574156519213" duration="752000" />
+      <workItem from="1574215512752" duration="3069000" />
+      <workItem from="1574305945468" duration="5367000" />
+      <workItem from="1574315928631" duration="3977000" />
+      <workItem from="1574320607415" duration="10349000" />
+      <workItem from="1574384756869" duration="6204000" />
+      <workItem from="1574487382342" duration="5747000" />
+      <workItem from="1574646110368" duration="1320000" />
+      <workItem from="1574731035355" duration="12216000" />
+      <workItem from="1574750725167" duration="10597000" />
+      <workItem from="1574816786291" duration="27100000" />
+      <workItem from="1574846819770" duration="2856000" />
+      <workItem from="1574903749169" duration="1321000" />
+      <workItem from="1574905239068" duration="76000" />
+      <workItem from="1574905384184" duration="6522000" />
+      <workItem from="1574912035791" duration="21065000" />
+      <workItem from="1574989752629" duration="9102000" />
+      <workItem from="1574999816553" duration="14565000" />
+      <workItem from="1575079469105" duration="13555000" />
+      <workItem from="1575097526231" duration="2570000" />
+      <workItem from="1575249520471" duration="25395000" />
+      <workItem from="1575335068575" duration="23179000" />
+      <workItem from="1575367045224" duration="1638000" />
+      <workItem from="1575421453306" duration="6410000" />
+      <workItem from="1575428128645" duration="2095000" />
+      <workItem from="1575430307681" duration="17255000" />
+      <workItem from="1575508500588" duration="22538000" />
+      <workItem from="1575593991553" duration="24351000" />
+      <workItem from="1575855560256" duration="21698000" />
+      <workItem from="1575940951939" duration="4191000" />
+      <workItem from="1575946693440" duration="23446000" />
+      <workItem from="1576026273642" duration="25837000" />
+      <workItem from="1576113084771" duration="6175000" />
+      <workItem from="1576199937589" duration="1926000" />
+      <workItem from="1576288762000" duration="7015000" />
+      <workItem from="1576458953689" duration="1833000" />
+      <workItem from="1576636412598" duration="645000" />
+      <workItem from="1576652816610" duration="11340000" />
+      <workItem from="1576717309576" duration="26227000" />
+      <workItem from="1576751420430" duration="158000" />
+      <workItem from="1576804095550" duration="21109000" />
+      <workItem from="1577149380228" duration="20234000" />
+      <workItem from="1577235836563" duration="24307000" />
+      <workItem from="1577325610250" duration="16310000" />
+      <workItem from="1577408639369" duration="19100000" />
+      <workItem from="1577432708071" duration="3892000" />
+      <workItem from="1577498172669" duration="1441000" />
+      <workItem from="1577668538351" duration="2888000" />
+      <workItem from="1577754563598" duration="24995000" />
+      <workItem from="1577927859169" duration="24840000" />
+      <workItem from="1578014299312" duration="26833000" />
+      <workItem from="1578272541507" duration="3121000" />
+      <workItem from="1578275963116" duration="1922000" />
+      <workItem from="1578278932808" duration="20982000" />
+      <workItem from="1578305625249" duration="294000" />
+      <workItem from="1578359814899" duration="8456000" />
+      <workItem from="1578369370052" duration="15985000" />
+      <workItem from="1578445382122" duration="20688000" />
+      <workItem from="1578531889925" duration="17616000" />
+      <workItem from="1578563085999" duration="1894000" />
+      <workItem from="1578627344581" duration="89000" />
+      <workItem from="1578627609989" duration="80000" />
+      <workItem from="1578627770016" duration="10264000" />
+      <workItem from="1578708650165" duration="8644000" />
+      <workItem from="1578877656595" duration="18239000" />
+      <workItem from="1578964043951" duration="11048000" />
+      <workItem from="1579050903113" duration="3434000" />
+      <workItem from="1579254872907" duration="807000" />
+      <workItem from="1583117697141" duration="6572000" />
+      <workItem from="1583198767573" duration="362000" />
+      <workItem from="1583199292548" duration="5366000" />
+      <workItem from="1583283433218" duration="2050000" />
+      <workItem from="1584409202549" duration="3083000" />
+      <workItem from="1584412808149" duration="4757000" />
+      <workItem from="1584432310389" duration="543000" />
+      <workItem from="1584433190838" duration="92000" />
+      <workItem from="1584436006507" duration="4212000" />
+      <workItem from="1584494180187" duration="5101000" />
+      <workItem from="1584506162262" duration="5280000" />
+      <workItem from="1584514753519" duration="2840000" />
+      <workItem from="1584517643144" duration="5695000" />
+      <workItem from="1584579946661" duration="9732000" />
+      <workItem from="1584605807045" duration="30000" />
+      <workItem from="1584694587338" duration="486000" />
+      <workItem from="1584696861776" duration="1583000" />
+      <workItem from="1584926105211" duration="14187000" />
+      <workItem from="1585012354244" duration="16609000" />
+      <workItem from="1585098846735" duration="23389000" />
+      <workItem from="1585185230338" duration="30387000" />
+      <workItem from="1585271713884" duration="11616000" />
+      <workItem from="1585300463290" duration="2368000" />
+    </task>
+    <task id="LOCAL-00001" summary="change">
+      <created>1574754179827</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1574754179828</updated>
+    </task>
+    <task id="LOCAL-00002" summary="新增对微信返回数据的处理-网关层">
+      <created>1575279027961</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1575279027961</updated>
+    </task>
+    <task id="LOCAL-00003" summary="修正同步参数存储的漏洞，初步实现任务的创建与执行，等到下一步完成。">
+      <created>1575541006532</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1575541006532</updated>
+    </task>
+    <task id="LOCAL-00004" summary="任务实现">
+      <created>1575625176938</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1575625176938</updated>
+    </task>
+    <task id="LOCAL-00005" summary="测试改动">
+      <created>1575627818094</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1575627818094</updated>
+    </task>
+    <task id="LOCAL-00006" summary="完全提交">
+      <created>1575857780197</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1575857780197</updated>
+    </task>
+    <task id="LOCAL-00007" summary="tijiao">
+      <created>1575886960990</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1575886960990</updated>
+    </task>
+    <task id="LOCAL-00008" summary="xiugai">
+      <created>1575972541557</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1575972541558</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Task依赖添加">
+      <created>1576055583514</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1576055583514</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Task依赖添加">
+      <created>1576061527433</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1576061527433</updated>
+    </task>
+    <task id="LOCAL-00011" summary="01">
+      <created>1576231465649</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1576231465650</updated>
+    </task>
+    <task id="LOCAL-00012" summary="02">
+      <created>1576663786482</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1576663786482</updated>
+    </task>
+    <task id="LOCAL-00013" summary="03">
+      <created>1576751529317</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1576751529318</updated>
+    </task>
+    <task id="LOCAL-00014" summary="04">
+      <created>1576836833337</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1576836833338</updated>
+    </task>
+    <task id="LOCAL-00015" summary="05">
+      <created>1576838549345</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1576838549345</updated>
+    </task>
+    <task id="LOCAL-00016" summary="06">
+      <created>1577184397341</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1577184397342</updated>
+    </task>
+    <task id="LOCAL-00017" summary="07">
+      <created>1577268758604</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1577268758604</updated>
+    </task>
+    <task id="LOCAL-00018" summary="08">
+      <created>1577524477946</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1577524477946</updated>
+    </task>
+    <task id="LOCAL-00019" summary="09">
+      <created>1577785536772</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1577785536772</updated>
+    </task>
+    <task id="LOCAL-00020" summary="实现数据分析部分接口">
+      <created>1578046341480</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1578046341480</updated>
+    </task>
+    <task id="LOCAL-00021" summary="增加计算转化率的相关接口">
+      <created>1578305884171</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1578305884172</updated>
+    </task>
+    <task id="LOCAL-00022" summary="填补了漏洞：&#10;1.日志存储日期类型数据的生成及存储，日志表和接收数据不一致处理&#10;2.定时任务处理定时器被ScheduledThreadPool取代&#10;3.数据分析接口语句格式改变">
+      <created>1578390054687</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1578390054688</updated>
+    </task>
+    <task id="LOCAL-00023" summary="部分代码更新">
+      <created>1578537219406</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1578537219407</updated>
+    </task>
+    <task id="LOCAL-00024" summary="补充了关于用户数据分析的4个接口">
+      <created>1578564803971</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1578564803971</updated>
+    </task>
+    <task id="LOCAL-00025" summary="修改了同步任务的代码实现">
+      <created>1578904872828</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1578904872828</updated>
+    </task>
+    <task id="LOCAL-00026" summary="完全提交">
+      <created>1579255515137</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1579255515137</updated>
+    </task>
+    <task id="LOCAL-00027" summary="增加数据库配置读取">
+      <created>1584523596365</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1584523596366</updated>
+    </task>
+    <task id="LOCAL-00028" summary="修改部分仓储代码">
+      <created>1585044823656</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1585044823656</updated>
+    </task>
+    <task id="LOCAL-00029" summary="合并control层部分代码">
+      <created>1585131063406</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1585131063406</updated>
+    </task>
+    <task id="LOCAL-00030" summary="重写数据分析仓储">
+      <created>1585216895979</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1585216895980</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.test" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="测试改动" />
+    <MESSAGE value="tijiao" />
+    <MESSAGE value="xiugai" />
+    <MESSAGE value="Task依赖添加" />
+    <MESSAGE value="01" />
+    <MESSAGE value="02" />
+    <MESSAGE value="03" />
+    <MESSAGE value="04" />
+    <MESSAGE value="05" />
+    <MESSAGE value="06" />
+    <MESSAGE value="07" />
+    <MESSAGE value="08" />
+    <MESSAGE value="09" />
+    <MESSAGE value="实现数据分析部分接口" />
+    <MESSAGE value="增加计算转化率的相关接口" />
+    <MESSAGE value="填补了漏洞：&#10;1.日志存储日期类型数据的生成及存储，日志表和接收数据不一致处理&#10;2.定时任务处理定时器被ScheduledThreadPool取代&#10;3.数据分析接口语句格式改变" />
+    <MESSAGE value="部分代码更新" />
+    <MESSAGE value="补充了关于用户数据分析的4个接口" />
+    <MESSAGE value="修改同步任务的代码实现" />
+    <MESSAGE value="修改了同步任务的代码实现" />
+    <MESSAGE value="完全提交" />
+    <MESSAGE value="增加数据库配置读取" />
+    <MESSAGE value="修改部分仓储代码" />
+    <MESSAGE value="合并control层部分代码" />
+    <MESSAGE value="重写数据分析仓储" />
+    <option name="LAST_COMMIT_MESSAGE" value="重写数据分析仓储" />
+  </component>
+</project>

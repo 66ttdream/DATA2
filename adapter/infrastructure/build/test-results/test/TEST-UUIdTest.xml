@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="UUIdTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-03-19T05:10:54" hostname="7JK9OQ7LAHCDEMY" time="0.014">
+  <properties/>
+  <testcase name="test()" classname="UUIdTest" time="0.014"/>
+  <system-out><![CDATA[07b9aa54-5d4f-4ca6-baaf-94c1c797c2f2
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

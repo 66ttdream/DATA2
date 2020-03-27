@@ -1,0 +1,15 @@
+rootProject.name = 'Data'
+
+
+include 'controller','spring-app','domain','usecase','infrastructure','gateways','conf','repository','timingtask-app'
+project(":controller").projectDir = file("adapter/controller")
+project(":repository").projectDir = file("adapter/repository")
+project(":gateways").projectDir = file("adapter/gateways")
+project(":infrastructure").projectDir = file("adapter/infrastructure")
+project(":spring-app").projectDir = file("application/spring-app")
+project(":timingtask-app").projectDir = file("application/timingtask-app")
+project(":domain").projectDir = file("domain")
+project(":usecase").projectDir = file("usecase")
+project(":conf").projectDir = file("conf")
+
+

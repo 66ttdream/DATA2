@@ -1,0 +1,14 @@
+module Data.repository.test {
+    requires Data.gateways;
+    requires org.junit.jupiter.api;
+    requires Data.domain;
+    requires data.vo.id;
+    requires data.entity
+    requires data.repository.synparameter;
+    requires data.gateways.tokengateways;
+    requires gson;
+    requires data.gateways.module;
+    requires log4j;
+    requires log4j;
+
+}

@@ -1,0 +1,39 @@
+tasks.withType(JavaCompile) {
+    options.encoding = "UTF-8"
+}
+
+subprojects {
+    apply plugin: 'java'
+    group = 'Data'
+    repositories {
+        mavenCentral()
+    }
+
+
+    sourceCompatibility = 1.11
+    targetCompatibility = 1.11
+    dependencies {
+        testCompile  'org.junit.jupiter:junit-jupiter-api:5.4.2'
+        testRuntimeOnly  'org.junit.jupiter:junit-jupiter-engine:5.4.2'
+    }
+
+
+    afterEvaluate {
+        repositories {
+            mavenCentral()
+        }
+
+        compileJava {
+            inputs.property("moduleName", moduleName)
+            doFirst {
+                options.compilerArgs = [
+                        '--module-path', classpath.asPath,
+                ]
+                classpath = files()
+            }
+        }
+    }
+    test {
+        useJUnitPlatform()
+    }
+}
